@@ -1,0 +1,27 @@
+{
+  "name": "learn__phantom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html --global main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-block/learn__phantom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max-block/learn__phantom/issues"
+  },
+  "homepage": "https://github.com/max-block/learn__phantom#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.12.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.2.4"
+  }
+}
